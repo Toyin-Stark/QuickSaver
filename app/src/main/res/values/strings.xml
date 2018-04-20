@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">QuickSave</string>
+    <string name="auto">AUTO DOWNLOAD</string>
+    <string name="open">OPEN INSTAGRAM</string>
+
+    <string name="fb_button">OPEN INSTAGRAM</string>
+    <string name="learn">Watch Video</string>
+
+    <string name="home_tab">Insta</string>
+    <string name="story_tab">Stories</string>
+    <string name="save_tab">Downloads</string>
+
+    <string name="content">Instagram photo</string>
+    <string name="no_story">No Stories Available</string>
+    <string name="story_download">Download</string>
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="downloadPhoto">Downloading Photo</string>
+    <string name="downloadStart">Downloading…</string>
+
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+    <string name="note_title">Quicksave is on</string>
+    <string name="note_text">Copy Share Url to instant download</string>
+    <string name="bannerTitle">Downloading…</string>
+
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+    <string name="hints">Instagram username </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
